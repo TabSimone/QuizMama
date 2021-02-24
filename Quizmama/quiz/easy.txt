@@ -1,0 +1,25 @@
+Il tiramisu contiene
+Uova
+Spaghetti
+Brodo
+Vongole
+Ghiande
+Banane
+
+La pizza ha la mozzarella?
+Si
+No
+
+I coockies contengono
+Cioccolata
+Ragu
+Passatelli
+Insalata
+
+I tortelli contengono
+Uova
+Melone
+Cocomero
+Ravanelli
+
+//Txt con domande facili

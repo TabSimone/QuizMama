@@ -1,0 +1,27 @@
+Il caciucco contiene
+Cozze
+Pizza
+Pesche
+Albicocche
+Pere
+Fichi
+
+L'onighiri contiene
+Salmone
+Ghiande
+Patate
+Pomodori
+
+La pizza alla romana contiene
+Acciughe
+Cannoli
+Arance
+Limoni
+
+Pasta al nero di
+Seppia
+Cioccolata
+Vaniglia
+Ricotta
+
+//Domande su pesce

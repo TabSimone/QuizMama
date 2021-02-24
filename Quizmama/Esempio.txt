@@ -1,0 +1,27 @@
+Il milkshake contiene
+Latte
+Olive
+Pinoli
+Barbabietola
+Pollo
+Maiale
+
+Le meringhe contengono
+Uova
+Curry
+Origano
+Zenzero
+
+Pasta alla carbonara contiene
+Uova
+Olive
+Tonno
+Biscotti
+
+I pancake contengono
+Burro
+Scampi
+Acciughe
+Cozze
+
+//Txt esempio

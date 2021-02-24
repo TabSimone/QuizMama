@@ -1,0 +1,25 @@
+La sacher contiene
+Marmellata
+Curry
+Sale
+Origano
+Aglio
+Rosmarino
+
+I passatelli hanno chiodi di garofano
+No
+Si
+Dipende
+
+Il vin brule ha i chiodi di garofano
+Si
+No
+Non esiste 
+
+Il pesto contiene
+Pinoli
+Curry
+Sale 
+Origano
+
+//Txt con domande difficili

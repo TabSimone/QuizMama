@@ -1,0 +1,24 @@
+Da dove deriva salame
+Maiale
+Mucca 
+Coniglio
+Lepre
+Fagiano
+Aquila
+
+La tagliata da che animale deriva
+Mucca
+Coniglio
+Maiale
+
+Il prosciutto deriva da
+Maiale
+Mucca
+Coniglio
+
+Il ragù e' fatto di carne
+Si 
+No
+Dipende
+
+//Txt su domande difficili
