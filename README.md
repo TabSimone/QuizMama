@@ -1,3 +1,4 @@
 # QuizMama
 Simple quiz made with Java and JavaFX for images. 
-![HomePage](https://user-images.githubusercontent.com/79592276/185973273-32d859b1-db86-44eb-8d0c-c4e8b1feeee3.png)
+
+![HomePage](https://user-images.githubusercontent.com/79592276/185973526-de55a909-a5f7-4c54-ad55-dd7f4f5b2bea.png)
